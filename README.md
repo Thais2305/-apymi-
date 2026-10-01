@@ -1,7 +1,7 @@
 # -apymi-
 <header>
 <h1>ÑAPYMI</h1>
-<p>Equipe de Robótica Subaquática - ROV Tridente</p>
+<p>Equipe de Robótica Subaquática - ROV </p>
 <nav>
 <a href="#conceito">Conceito</a>
 <a href="#identidade">Identidade</a>
@@ -31,7 +31,7 @@
 <p><b>Pessoas e Cultura:</b> diversidade, ciclo do membro, treinamento de novatos<br>
 <b>Núcleo Técnico do Submarino (Tridente):</b> Mecânica, Elétrica, Software<br>
 <b>Operações Financeiras:</b> diagnóstico 12 meses<br>
-<b>Marca e Design:</b> ÑAPYMI Racing Team</p>
+<b>Marca e Design:</b> ÑAPYMI Team</p>
 </section>
 
 
