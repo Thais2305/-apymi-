@@ -35,25 +35,3 @@
 </section>
 
 
-*{margin:0;padding:0;box-sizing:border-box}
-body{font-family:Arial,sans-serif;background:#eef5ff;color:#0A1931}
-header{background:#0A1931;color:white;text-align:center;padding:40px 20px}
-.logo{font-size:48px;font-weight:900;letter-spacing:3px;color:#4CC9F0;border:3px solid #D4AF37;display:inline-block;padding:10px 30px;border-radius:50px}
-
-console.log("ÑAPYMI no ar");
-document.querySelectorAll('nav a').forEach(link=>{
-  link.addEventListener('click', e=>{
-    e.preventDefault();
-    document.querySelector(link.getAttribute('href')).scrollIntoView({behavior:'smooth'});
-  });
-});
-nav{margin-top:20px}
-nav a{color:#4CC9F0;margin:0 12px;text-decoration:none;font-weight:bold}
-section{background:white;margin:25px auto;max-width:900px;padding:25px;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.1)}
-h2{border-left:6px solid #4CC9F0;padding-left:12px;margin-bottom:15px}
-.grid{display:grid;grid-template-columns:1fr 1fr;gap:15px}
-.card{border:1px solid #cce0ff;padding:15px;border-radius:10px}
-.card.destaque{grid-column:span 2;background:#0A1931;color:white}
-footer{background:#0A1931;color:white;text-align:center;padding:20px;margin-top:30px}
-
-
